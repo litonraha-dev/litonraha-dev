@@ -149,33 +149,46 @@ A React application for selecting players and managing a team using dynamic data
 </table>
 
 ---
-
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=litonraha-dev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=litonraha-dev&show_icons=true&hide_border=true"
     height="180"
+    alt="GitHub Stats"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=litonraha-dev&layout=compact&hide_border=true"
     height="180"
+    alt="Top Languages"
   />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=litonraha-dev&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=litonraha-dev&hide_border=true"
+    alt="GitHub Contribution Graph"
+  />
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <img
@@ -183,15 +196,7 @@ A React application for selecting players and managing a team using dynamic data
     alt="GitHub Contribution Snake"
   />
 </p>
----
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=litonraha-dev&hide_border=true"
-  />
-</p>
 
 ---
 
