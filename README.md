@@ -141,7 +141,8 @@ A React application for selecting players and managing a team using dynamic data
 
 🔗 [Live Demo](https://splendid-toffee-8b9e30.netlify.app/)
 
-🔗 [Source Code] (YOUR_TECH_GITHUB_URL)
+🔗 [Source Code](YOUR_TECH_GITHUB_URL)
+
 
 </td>
 </tr>
