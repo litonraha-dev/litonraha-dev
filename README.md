@@ -158,7 +158,7 @@ A React application for selecting players and managing a team using dynamic data
     height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=litonraha-dev&layout=compact&hide_border=true"
     height="180"
   />
 </p>
@@ -169,7 +169,7 @@ A React application for selecting players and managing a team using dynamic data
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true"
+    src="https://streak-stats.demolab.com?user=litonraha-dev&hide_border=true"
   />
 </p>
 
@@ -179,7 +179,7 @@ A React application for selecting players and managing a team using dynamic data
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=litonraha-dev&hide_border=true"
   />
 </p>
 
@@ -189,7 +189,7 @@ A React application for selecting players and managing a team using dynamic data
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/YOUR_USERNAME/litonraha-dev/output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
   />
 </p>
