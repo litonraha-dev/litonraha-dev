@@ -175,22 +175,21 @@ A React application for selecting players and managing a team using dynamic data
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/litonraha-dev/litonraha-dev/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+---
+
 # 📈 Contribution Graph
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=litonraha-dev&hide_border=true"
-  />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/litonraha-dev/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
   />
 </p>
 
