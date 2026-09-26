@@ -154,7 +154,7 @@ A React application for selecting players and managing a team using dynamic data
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=litonraha-dev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
     height="180"
   />
   <img
