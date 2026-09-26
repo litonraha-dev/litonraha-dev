@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="YOUR_PORTFOLIO_URL" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL">
@@ -20,36 +20,19 @@
   </a>
 </p>
 
+---
 
 ## 🚀 About Me
 
 I'm a Full-Stack Web Developer from Bangladesh 🇧🇩.
 
-- 💻 React.js
-- ⚛️ Next.js
-- 🟦 TypeScript
-- 🎨 Tailwind CSS
-- 🟢 Node.js
-- 🗄️ MongoDB
-- 🔧 Git & GitHub
-
-### 🌱 Currently Learning
-
-Next.js, TypeScript, Node.js, Backend Development and Full-Stack Web Development.
+- 💻 **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, DaisyUI
+- 🟢 **Backend:** Node.js, Express.js, REST APIs
+- 🗄️ **Database:** MongoDB, PostgreSQL
+- 🔧 **Tools & Workflow:** Git, GitHub, Vercel
 
 ### 🎯 Goal
-
-Build scalable and production-ready web applications.
-### 💡 What I Do
-
-* 🔥 Build modern web applications
-* ⚛️ Develop interfaces with **React & Next.js**
-* 🟦 Write scalable code with **TypeScript**
-* 🎨 Create responsive UI with **Tailwind CSS**
-* 🔌 Work with REST APIs and backend services
-* 🗄️ Learn and work with databases
-* 🚀 Deploy applications with **Vercel**
-* 📚 Continuously improve my development skills
+To build scalable, robust, and production-ready full-stack applications.
 
 ---
 
@@ -82,32 +65,22 @@ Build scalable and production-ready web applications.
 <td width="50%">
 
 ### 📚 Book Vibe
-
 A modern book management application built with Next.js and TypeScript.
 
-**Tech:**
+**Tech:** `Next.js` `TypeScript` `Tailwind CSS` `DaisyUI`
 
-`Next.js` `TypeScript` `Tailwind CSS` `DaisyUI`
-
-🔗 [Live Demo](YOUR_BOOK_PROJECT_URL)
-
-🔗 [Source Code](YOUR_BOOK_GITHUB_URL)
+🔗 [Live Demo](YOUR_BOOK_PROJECT_URL) | 🔗 [Source Code](YOUR_BOOK_GITHUB_URL)
 
 </td>
 
 <td width="50%">
 
 ### 💪 FitLog
+A fitness-focused web application for discovering workouts and managing personalized plans.
 
-A fitness-focused web application for discovering workouts and managing personalized workout plans.
+**Tech:** `Next.js` `TypeScript` `Tailwind CSS` `REST API`
 
-**Tech:**
-
-`Next.js` `TypeScript` `Tailwind CSS` `REST API`
-
-🔗 [Live Demo](https://fit-log-app-zeta.vercel.app/)
-
-🔗 [Source Code](YOUR_FITLOG_GITHUB_URL)
+🔗 [Live Demo](https://fit-log-app-zeta.vercel.app/) | 🔗 [Source Code](YOUR_FITLOG_GITHUB_URL)
 
 </td>
 </tr>
@@ -116,39 +89,29 @@ A fitness-focused web application for discovering workouts and managing personal
 <td width="50%">
 
 ### ⚛️ Technology Stack
+A React + TypeScript application for selecting and managing tech stacks.
 
-A React + TypeScript application for selecting and managing technologies for a custom development stack.
+**Tech:** `React` `TypeScript` `Tailwind CSS`
 
-**Tech:**
-
-`React` `TypeScript` `Tailwind CSS`
-
-🔗 [Live Demo](https://quiet-sprinkles-977285.netlify.app/)
-
-🔗 [Source Code](YOUR_TECH_GITHUB_URL)
+🔗 [Live Demo](https://quiet-sprinkles-977285.netlify.app/) | 🔗 [Source Code](YOUR_TECH_GITHUB_URL)
 
 </td>
 
 <td width="50%">
 
 ### 🏏 BPL Dream
+A dynamic cricket team management app built with React for selecting players and tracking stats.
 
-A React application for selecting players and managing a team using dynamic data and state management.
+**Tech:** `React` `TypeScript` `Tailwind CSS` `DaisyUI`
 
-**Tech:**
-
-`React` `TypeScript` `Tailwind CSS` `DaisyUI`
-
-🔗 [Live Demo](https://splendid-toffee-8b9e30.netlify.app/)
-
-🔗 [Source Code](YOUR_TECH_GITHUB_URL)
-
+🔗 [Live Demo](https://splendid-toffee-8b9e30.netlify.app/) | 🔗 [Source Code](YOUR_BPL_GITHUB_URL)
 
 </td>
 </tr>
 </table>
 
 ---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -164,10 +127,6 @@ A React application for selecting players and managing a team using dynamic data
   />
 </p>
 
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=litonraha-dev&hide_border=true&theme=transparent"
@@ -178,78 +137,7 @@ A React application for selecting players and managing a team using dynamic data
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=litonraha-dev&hide_border=true&theme=github-compact"
-    alt="GitHub Contribution Activity"
-  />
-</p>
-
-
----
-
-# 🌱 Currently Learning
+# 🌱 Roadmap & Goals
 
 ```text
-Next.js
-   ↓
-TypeScript
-   ↓
-Node.js & Express
-   ↓
-MongoDB / PostgreSQL
-   ↓
-Authentication
-   ↓
-REST APIs
-   ↓
-Full-Stack Applications
-```
-
----
-
-# 🎯 2026 Goals
-
-* [x] Learn HTML & CSS
-* [x] Learn JavaScript fundamentals
-* [x] Learn React fundamentals
-* [x] Learn TypeScript fundamentals
-* [x] Learn Next.js fundamentals
-* [ ] Build production-ready full-stack applications
-* [ ] Improve backend development
-* [ ] Learn authentication & authorization
-* [ ] Work with databases professionally
-* [ ] Build and deploy complete SaaS applications
-* [ ] Contribute to open-source projects
-
----
-
-# 💬 Let's Connect
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<h3 align="center">
-  🚀 Building. Learning. Improving. Every Day.
-</h3>
-
-<p align="center">
-  <i>Thanks for visiting my profile!</i> ⭐
-</p>
+Next.js 🚀  -->  TypeScript 🟦  -->  Node.js & Express 🟢  -->  MongoDB / PostgreSQL 🗄️  -->  Full-Stack SaaS 💎
