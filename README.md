@@ -138,8 +138,8 @@ A React application for selecting players and managing a team using dynamic data
 **Tech:**
 
 `React` `TypeScript` `Tailwind CSS` `DaisyUI`
-
-🔗 [Source Code] (https://splendid-toffee-8b9e30.netlify.app/)
+🔗 [Live Demo](https://splendid-toffee-8b9e30.netlify.app/)
+🔗 [Source Code] (YOUR_TECH_GITHUB_URL)
 
 </td>
 </tr>
