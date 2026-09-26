@@ -123,7 +123,7 @@ A React + TypeScript application for selecting and managing technologies for a c
 
 `React` `TypeScript` `Tailwind CSS`
 
-🔗 [Live Demo](YOUR_TECH_PROJECT_URL)
+🔗 [Live Demo](https://quiet-sprinkles-977285.netlify.app/))
 
 🔗 [Source Code](YOUR_TECH_GITHUB_URL)
 
