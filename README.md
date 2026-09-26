@@ -21,27 +21,37 @@
 </p>
 
 ---
-
-## 🚀 About Me
-
-```javascript
-const liton = {
-  role: "Full-Stack Web Developer",
-  location: "Bangladesh 🇧🇩",
-  currentlyLearning: [
+{
+  "role": "Full-Stack Web Developer",
+  "location": "Bangladesh 🇧🇩",
+  "currentlyLearning": [
     "Next.js",
     "TypeScript",
     "Node.js",
     "Backend Development"
   ],
-  frontend: ["React", "Next.js", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js", "REST API"],
-  database: ["MongoDB", "PostgreSQL"],
-  tools: ["Git", "GitHub", "VS Code", "Vercel"],
-  goal: "Build scalable and production-ready web applications"
-};
-```
-
+  "frontend": [
+    "React",
+    "Next.js",
+    "Tailwind CSS"
+  ],
+  "backend": [
+    "Node.js",
+    "Express.js",
+    "REST API"
+  ],
+  "database": [
+    "MongoDB",
+    "PostgreSQL"
+  ],
+  "tools": [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Vercel"
+  ],
+  "goal": "Build scalable and production-ready web applications"
+}
 ### 💡 What I Do
 
 * 🔥 Build modern web applications
