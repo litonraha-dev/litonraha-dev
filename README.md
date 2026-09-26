@@ -105,7 +105,7 @@ A fitness-focused web application for discovering workouts and managing personal
 
 `Next.js` `TypeScript` `Tailwind CSS` `REST API`
 
-🔗 [Live Demo](https://fit-log-app-zeta.vercel.app/))
+🔗 [Live Demo](https://fit-log-app-zeta.vercel.app/)
 
 🔗 [Source Code](YOUR_FITLOG_GITHUB_URL)
 
@@ -138,7 +138,9 @@ A React application for selecting players and managing a team using dynamic data
 **Tech:**
 
 `React` `TypeScript` `Tailwind CSS` `DaisyUI`
+
 🔗 [Live Demo](https://splendid-toffee-8b9e30.netlify.app/)
+
 🔗 [Source Code] (YOUR_TECH_GITHUB_URL)
 
 </td>
