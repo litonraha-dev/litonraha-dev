@@ -20,38 +20,26 @@
   </a>
 </p>
 
----
-{
-  "role": "Full-Stack Web Developer",
-  "location": "Bangladesh 🇧🇩",
-  "currentlyLearning": [
-    "Next.js",
-    "TypeScript",
-    "Node.js",
-    "Backend Development"
-  ],
-  "frontend": [
-    "React",
-    "Next.js",
-    "Tailwind CSS"
-  ],
-  "backend": [
-    "Node.js",
-    "Express.js",
-    "REST API"
-  ],
-  "database": [
-    "MongoDB",
-    "PostgreSQL"
-  ],
-  "tools": [
-    "Git",
-    "GitHub",
-    "VS Code",
-    "Vercel"
-  ],
-  "goal": "Build scalable and production-ready web applications"
-}
+
+## 🚀 About Me
+
+I'm a Full-Stack Web Developer from Bangladesh 🇧🇩.
+
+- 💻 React.js
+- ⚛️ Next.js
+- 🟦 TypeScript
+- 🎨 Tailwind CSS
+- 🟢 Node.js
+- 🗄️ MongoDB
+- 🔧 Git & GitHub
+
+### 🌱 Currently Learning
+
+Next.js, TypeScript, Node.js, Backend Development and Full-Stack Web Development.
+
+### 🎯 Goal
+
+Build scalable and production-ready web applications.
 ### 💡 What I Do
 
 * 🔥 Build modern web applications
