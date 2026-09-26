@@ -105,7 +105,7 @@ A fitness-focused web application for discovering workouts and managing personal
 
 `Next.js` `TypeScript` `Tailwind CSS` `REST API`
 
-🔗 [Live Demo](YOUR_FITLOG_URL)
+🔗 [Live Demo](https://fit-log-app-zeta.vercel.app/))
 
 🔗 [Source Code](YOUR_FITLOG_GITHUB_URL)
 
@@ -123,7 +123,7 @@ A React + TypeScript application for selecting and managing technologies for a c
 
 `React` `TypeScript` `Tailwind CSS`
 
-🔗 [Live Demo](https://quiet-sprinkles-977285.netlify.app/))
+🔗 [Live Demo](https://quiet-sprinkles-977285.netlify.app/)
 
 🔗 [Source Code](YOUR_TECH_GITHUB_URL)
 
@@ -131,7 +131,7 @@ A React + TypeScript application for selecting and managing technologies for a c
 
 <td width="50%">
 
-### 🏏 Player Selection
+### 🏏 BPL Dream
 
 A React application for selecting players and managing a team using dynamic data and state management.
 
@@ -139,7 +139,7 @@ A React application for selecting players and managing a team using dynamic data
 
 `React` `TypeScript` `Tailwind CSS` `DaisyUI`
 
-🔗 [Source Code](YOUR_PLAYER_PROJECT_URL)
+🔗 [Source Code] (https://splendid-toffee-8b9e30.netlify.app/)
 
 </td>
 </tr>
