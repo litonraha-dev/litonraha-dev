@@ -111,31 +111,16 @@ A dynamic cricket team management app built with React for selecting players and
 </table>
 
 ---
-
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=litonraha-dev&show_icons=true&hide_border=true&theme=transparent"
-    height="180"
-    alt="Liton Raha GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=litonraha-dev&layout=compact&hide_border=true&theme=transparent"
-    height="180"
-    alt="Most Used Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=litonraha-dev&show_icons=true&hide_border=true&theme=tokyonight" alt="Liton Raha's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=litonraha-dev&layout=compact&hide_border=true&theme=tokyonight" alt="Most Used Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=litonraha-dev&hide_border=true&theme=transparent"
-    height="180"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=litonraha-dev&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
 
 # 🌱 Roadmap & Goals
 
